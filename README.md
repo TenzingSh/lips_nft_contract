@@ -1,6 +1,6 @@
 # Welcome to HashLips 👄
 
-![](https://github.com/HashLips/hashlips_nft_contract/blob/main/logo.png)
+![](https://github.com/0xdev4coder/hashlips_nft_contract/blob/main/logo.png)
 
 All the code in these repos was created and explained by HashLips on the main YouTube channel.
 
@@ -10,7 +10,7 @@ To find out more please visit:
 
 [👄 Discord](https://discord.com/invite/qh6MWhMJDN)
 
-[💬 Telegram](https://t.me/hashlipsnft)
+[💬 Telegram](https://t.me/dantemaia)
 
 [🐦 Twitter](https://twitter.com/hashlipsnft)
 
@@ -18,7 +18,7 @@ To find out more please visit:
 
 # HashLips NFT contract 🔥
 
-![](https://github.com/HashLips/hashlips_nft_contract/blob/main/banner.png)
+![](https://github.com/0xdev4coder/hashlips_nft_contract/blob/main/banner.png)
 
 This repo provides a simple NFT smart contract.
 
